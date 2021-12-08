@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1638976089",
+      "datetime": 1638976089,
       "filename": "lineage_monet.zip",
       "id": "kZ9tINYdQGOvswI7Ixhuvf34Z7Aqhb5r",
       "romtype": "unofficial",
       "size": 12884901888,
-      "url": "sftp://jonnieitis@frs.sourceforge.net/home/pfs/project/tweaked-ota/updates/lineage_monet.zip",
+      "url": "https://sourceforge.net/projects/tweaked-ota/files/latest/download",
       "version": "18.1"
     }
   ]
