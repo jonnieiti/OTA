@@ -2,11 +2,11 @@
   "response": [
     {
      "datetime": 1639022213,
-     "filename": "lineage-18.1-20211207--monet.zip",
+     "filename": "lineage_monet.zip",
      "id": "kZ9tINYdQGOvswI7Ixhuvf34Z7Aqhb5r2",
      "romtype": "unofficial",
      "size": 12884901888,
-     "url": "https://sourceforge.net/projects/lineageos-tweaked/files/monet/los-tweaked/lineage-18.1-20211207--monet.zip/download",
+     "url": "https://sourceforge.net/projects/tweaked-ota/files/updates/lineage_monet.zip/download",
      "version": "11"
     }
   ]
