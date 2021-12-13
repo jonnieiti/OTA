@@ -2,11 +2,11 @@
   "response": [
     {
      "datetime": 1639311744,
-     "filename": "signed-ota_update.zip",
+     "filename": "unofficial-ota_update.zip",
      "id": "kZ9tINYdQGOvswI7Ixhuvf34Z7Aqhb5r2",
      "romtype": "unofficial",
      "size": 12884901888,
-     "url": "https://sourceforge.net/projects/tweaked-ota/files/updates",
+     "url": "https://sourceforge.net/projects/tweaked-ota/files/updates/unofficial-ota_update.zip/",
      "version": "11"
     }
   ]
