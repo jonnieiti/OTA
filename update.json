@@ -1,13 +1,13 @@
 {
   "response": [
     {
-     "datetime": 1639311744,
-     "filename": "unofficial-ota_update.zip",
+     "datetime": 1640749376,
+     "filename": "signed-ota_update.zip",
      "id": "kZ9tINYdQGOvswI7Ixhuvf34Z7Aqhb5r2",
      "romtype": "unofficial",
      "size": 12884901888,
-     "url": "https://sourceforge.net/projects/tweaked-ota/files/updates/unofficial-ota_update.zip/download",
-     "version": "11"
+     "url": "https://www.androidfilehost.com/?fid=17825722713688258641",
+     "version": "18.1"
     }
   ]
 }
