@@ -5,7 +5,7 @@
         "oem": "Xiaomi",
         "device": "mi 10 lite 5g",
         "filename": "signed-ota_update.zip",
-        "download": "https://sourceforge.net/projects/lineageos-tweaked/files/los-tweaked/monet/signed-ota_update.zip/download",
+        "download": "https://sourceforge.net/projects/lineageos-tweaked/files/los-tweaked/monet/signed-ota_update.zip",
         "timestamp": 1640845117,
         "md5": "65511ad0912a3a63e0bf092d5e02eb87",
         "size": 1155118136,
