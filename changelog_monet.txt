@@ -2,6 +2,7 @@
 -------------
 security updates
 bug fixes
+small changes to gaming mode
 -------------
 3.01.2022
 -------------
