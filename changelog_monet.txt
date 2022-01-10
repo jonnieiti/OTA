@@ -1,8 +1,13 @@
+10.01.2022
+-------------
+security updates
+bug fixes
+-------------
 3.01.2022
 -------------
 security updates
 OTA test
-
+----------------
 30.12.21
 ----------------
 merged microg
