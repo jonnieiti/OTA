@@ -6,11 +6,19 @@
         "device": "mi 10 lite 5g",
         "filename": "signed-ota_update.zip",
         "download": "https://sourceforge.net/projects/lineageos-tweaked/files/los-tweaked/monet/signed-ota_update.zip/download",
-        "timestamp": 1641793763,
-        "md5": "c593e970b51895d99a2a093c9ea8051a",
-        "size": 1166482153,
+        "timestamp": 1642430466,
+        "md5": "ab3ad45dbc05c5cdaa96fa3f10432f05",
+        "size": 1166496215,
         "version": ".",
         "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": ""
     }
   ]
 }
